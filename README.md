@@ -36,7 +36,46 @@ Please refer to the project's documentation and Jupyter notebooks for detailed i
 
 ## Dataset
 
-The dataset used in this project can be found in the `data` directory. It contains anonymized patient data with various attributes relevant to diabetes identification. This dataset is used for training and evaluating the algorithm.
+The dataset used for this research consists of 1,564 rows and the following columns:
+
+| Column Name       | Code  | Description                                      |
+|-------------------|-------|--------------------------------------------------|
+| Region            | 1     | Dhaka                                            |
+|                   | 2     | Barisal                                          |
+|                   | 3     | Chittagong                                       |
+|                   | 4     | Khulna                                           |
+|                   | 5     | Rajshahi                                         |
+|                   | 6     | Rangpur                                          |
+|                   | 7     | Sylhet                                           |
+| Residence         | 1     | Rural                                            |
+|                   | 2     | Urban                                            |
+| Electricity       | 1     | Yes                                              |
+|                   | 2     | No                                               |
+| Gender            | 1     | Male                                             |
+|                   | 2     | Female                                           |
+| Wealth Index      | 1     | Poorer                                           |
+|                   | 2     | Poorest                                          |
+|                   | 3     | Middle                                           |
+|                   | 4     | Richer                                           |
+|                   | 5     | Richest                                          |
+| Education         | 1     | Primary                                          |
+|                   | 2     | Secondary                                        |
+|                   | 3     | Higher                                           |
+|                   | 4     | No education, preschool                         |
+| Working Status    | 1     | Yes                                              |
+|                   | 2     | No                                               |
+| Smoking Status    | 1     | Yes                                              |
+|                   | 2     | No                                               |
+| Take Medicine     | 1     | Yes                                              |
+|                   | 2     | No                                               |
+| BMI Group         | 1     | Normal                                           |
+|                   | 2     | Overweight                                       |
+|                   | 3     | Underweight                                      |
+| Diabetes          | 0     | Control                                          |
+|                   | 1     | Diabetes                                         |
+
+This dataset is a valuable resource for conducting research on diabetic disease identification in the context of various socio-demographic factors in Bangladesh.
+
 
 ## Results
 
