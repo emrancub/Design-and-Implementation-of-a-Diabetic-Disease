@@ -6,7 +6,7 @@ This dataset comprises medical and demographic information from 100,000 patients
 
 ## Dataset Structure
 
-The dataset is structured as a Pandas DataFrame with 100,000 entries and 9 columns.
+The dataset is structured with 100,000 entries and 9 columns.
 
 | Column               | Non-Null Count | Dtype  |
 |----------------------|----------------|--------|
@@ -20,8 +20,6 @@ The dataset is structured as a Pandas DataFrame with 100,000 entries and 9 colum
 | blood_glucose_level  | 100,000        | int64  |
 | diabetes             | 100,000        | int64  |
 
-Memory Usage: 6.9+ MB
-
 ## First Five Rows
 
 ```plaintext
@@ -34,7 +32,6 @@ Memory Usage: 6.9+ MB
 | Male   | 76.0 | 1            | 1             | current          | 20.14| 4.8         | 155                  | 0        |
 
 ## Missing Values
-
 | Column               | Missing Values |
 |----------------------|----------------|
 | gender               | 0              |
