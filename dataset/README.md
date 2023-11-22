@@ -57,12 +57,16 @@ The dataset is structured with 100,000 entries and 9 columns.
 | 75%                  | 59.00  | 0.00         | 0.00          | 29.86 | 6.20        | 159.00               | 0.00     |
 | max                  | 80.00  | 1.00         | 1.00          | 95.69 | 9.00        | 300.00               | 1.00     |
 
+
 ## Conclusion
 
 For more detailed information, please refer to the dataset named "diabetes_prediction_dataset.csv" included in this repository. Additionally, you can find a comprehensive analysis in the Diabeties.ipynb file inside the code folder.
+
+I collected this data from [Kaggle](https://www.kaggle.com), a platform for data science and machine learning.
 
 Feel free to explore the dataset and the associated analysis to gain deeper insights into the predictions and trends related to diabetes.
 
 ---
 
 **Note:** If you encounter any issues or have questions, please don't hesitate to reach out for further clarification or assistance.
+
