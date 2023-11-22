@@ -1,97 +1,61 @@
-# Diabetic Disease Identification Algorithm
+# Diabetes Prediction Dataset
 
-## Introduction
+## Overview
 
-This repository contains the implementation of a Diabetic Disease Identification Algorithm based on data mining, developed as part of a Master's thesis project at Northeastern University, China. The project is supervised by Professor Chen Dongming.
+This dataset comprises medical and demographic information from 100,000 patients, focusing on predicting diabetes. Below is an overview of the dataset.
 
-## Table of Contents
+## Dataset Structure
 
-- [Introduction](#introduction)
-- [Objective](#objective)
-- [Methodology](#methodology)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Results](#results)
-- [Contributors](#contributors)
-- [License](#license)
+The dataset is structured as a Pandas DataFrame with 100,000 entries and 9 columns.
 
-## Objective
+| Column               | Non-Null Count | Dtype  |
+|----------------------|----------------|--------|
+| gender               | 100,000        | object |
+| age                  | 100,000        | float64|
+| hypertension         | 100,000        | int64  |
+| heart_disease        | 100,000        | int64  |
+| smoking_history      | 100,000        | object |
+| bmi                  | 100,000        | float64|
+| HbA1c_level          | 100,000        | float64|
+| blood_glucose_level  | 100,000        | int64  |
+| diabetes             | 100,000        | int64  |
 
-The primary objective of this project is to design and implement an algorithm that can identify diabetic disease in patients using data mining techniques. The algorithm is aimed at improving the early detection and diagnosis of diabetes, which is crucial for effective treatment and management of the disease.
+Memory Usage: 6.9+ MB
 
-## Methodology
+## First Five Rows
 
-Our approach involves utilizing data mining and machine learning techniques to analyze a dataset of patient information, such as medical records, lab results, and lifestyle factors. The steps involved in the methodology include data preprocessing, feature selection, algorithm development, and model evaluation. We aim to provide a reliable and accurate system for diabetic disease identification.
+```plaintext
+| gender | age  | hypertension | heart_disease | smoking_history | bmi  | HbA1c_level | blood_glucose_level | diabetes |
+|--------|------|--------------|---------------|------------------|------|-------------|----------------------|----------|
+| Female | 80.0 | 0            | 1             | never            | 25.19| 6.6         | 140                  | 0        |
+| Female | 54.0 | 0            | 0             | No Info          | 27.32| 6.6         | 80                   | 0        |
+| Male   | 28.0 | 0            | 0             | never            | 27.32| 5.7         | 158                  | 0        |
+| Female | 36.0 | 0            | 0             | current          | 23.45| 5.0         | 155                  | 0        |
+| Male   | 76.0 | 1            | 1             | current          | 20.14| 4.8         | 155                  | 0        |
 
-## Usage
+## Missing Values
 
-To use the Diabetic Disease Identification Algorithm, follow these steps:
+| Column               | Missing Values |
+|----------------------|----------------|
+| gender               | 0              |
+| age                  | 0              |
+| hypertension         | 0              |
+| heart_disease        | 0              |
+| smoking_history      | 0              |
+| bmi                  | 0              |
+| HbA1c_level          | 0              |
+| blood_glucose_level  | 0              |
+| diabetes             | 0              |
 
-1. Clone this repository to your local machine.
-2. Install the required dependencies mentioned in the `requirements.txt` file.
-3. Run the algorithm using the provided scripts or Jupyter notebooks.
-4. Input your dataset for prediction (ensure it follows the same format as the provided dataset).
+## Dataset Description
 
-Please refer to the project's documentation and Jupyter notebooks for detailed instructions on how to use the algorithm effectively.
-
-## Dataset
-
-The dataset used for this research consists of 1,564 rows and the following columns:
-
-| Column Name       | Code  | Description                                      |
-|-------------------|-------|--------------------------------------------------|
-| Region            | 1     | Dhaka                                            |
-|                   | 2     | Barisal                                          |
-|                   | 3     | Chittagong                                       |
-|                   | 4     | Khulna                                           |
-|                   | 5     | Rajshahi                                         |
-|                   | 6     | Rangpur                                          |
-|                   | 7     | Sylhet                                           |
-| Residence         | 1     | Rural                                            |
-|                   | 2     | Urban                                            |
-| Electricity       | 1     | Yes                                              |
-|                   | 2     | No                                               |
-| Gender            | 1     | Male                                             |
-|                   | 2     | Female                                           |
-| Wealth Index      | 1     | Poorer                                           |
-|                   | 2     | Poorest                                          |
-|                   | 3     | Middle                                           |
-|                   | 4     | Richer                                           |
-|                   | 5     | Richest                                          |
-| Education         | 1     | Primary                                          |
-|                   | 2     | Secondary                                        |
-|                   | 3     | Higher                                           |
-|                   | 4     | No education, preschool                         |
-| Working Status    | 1     | Yes                                              |
-|                   | 2     | No                                               |
-| Smoking Status    | 1     | Yes                                              |
-|                   | 2     | No                                               |
-| Take Medicine     | 1     | Yes                                              |
-|                   | 2     | No                                               |
-| BMI Group         | 1     | Normal                                           |
-|                   | 2     | Overweight                                       |
-|                   | 3     | Underweight                                      |
-| Diabetes          | 0     | Control                                          |
-|                   | 1     | Diabetes                                         |
-
-This dataset is a valuable resource for conducting research on diabetic disease identification in the context of various socio-demographic factors in Bangladesh.
-
-
-## Results
-
-We will be continuously updating this section with the results and performance metrics of the Diabetic Disease Identification Algorithm. Stay tuned for the latest updates and research findings.
-
-## Contributors
-
-- [MD EMRAN HASAN](mailto:writetoemran@gmail.com)
-- Professor Chen Dongming (Supervisor)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-We welcome collaboration and contributions from the community to improve this algorithm and make a positive impact on diabetic disease identification. Feel free to reach out if you have any questions or ideas for improvement.
-
-For more information, contact [writetoemran@gmail.com](mailto:writetoemran@gmail.com).
+| Statistic            | age    | hypertension | heart_disease | bmi   | HbA1c_level | blood_glucose_level | diabetes |
+|----------------------|--------|--------------|---------------|-------|-------------|----------------------|----------|
+| count                | 96,128 | 96,128       | 96,128        | 96,128| 96,128      | 96,128               | 96,128   |
+| mean                 | 41.80  | 0.08         | 0.04          | 27.32 | 5.53        | 138.22               | 0.09     |
+| std                  | 22.46  | 0.27         | 0.20          | 6.77  | 1.07        | 40.91                | 0.28     |
+| min                  | 0.08   | 0.00         | 0.00          | 10.01 | 3.50        | 80.00                | 0.00     |
+| 25%                  | 24.00  | 0.00         | 0.00          | 23.40 | 4.80        | 100.00               | 0.00     |
+| 50%                  | 43.00  | 0.00         | 0.00          | 27.32 | 5.80        | 140.00               | 0.00     |
+| 75%                  | 59.00  | 0.00         | 0.00          | 29.86 | 6.20        | 159.00               | 0.00     |
+| max                  | 80.00  | 1.00         | 1.00          | 95.69 | 9.00        | 300.00               | 1.00     |
