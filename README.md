@@ -36,7 +36,7 @@ Please refer to the project's documentation and Jupyter notebooks for detailed i
 
 ## Dataset
 
-The dataset used for this research consists of 1,564 rows and includes socio-demographic factors. For detailed information about the dataset, please refer to the [Dataset folder](dataset).
+The dataset used for this research consists of 100,000 entries and includes socio-demographic factors. For detailed information about the dataset, please refer to the [Dataset folder](dataset).
 
 ## Results
 
