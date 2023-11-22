@@ -1,4 +1,4 @@
-# Diabetes Prediction Analysis - Image Repository
+# Design and Implementation of a Diabetic Disease Identification Algorithm Based on Data Mining - Image Repository
 
 ## Overview
 
