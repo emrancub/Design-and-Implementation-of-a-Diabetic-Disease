@@ -1,8 +1,8 @@
-# Diabetic Disease Identification Algorithm
+# Design and Implementation of a Diabetic Disease Identification Algorithm Based on Data Mining
 
 ## Introduction
 
-This repository contains the implementation of a Diabetic Disease Identification Algorithm based on data mining, developed as part of a Master's thesis project at Northeastern University, China. The project is supervised by Professor Chen Dongming.
+Welcome to the repository for the implementation of a Diabetic Disease Identification Algorithm, developed as part of a Master's thesis project at Northeastern University, China. This project is supervised by Professor Chen Dongming.
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ This repository contains the implementation of a Diabetic Disease Identification
 
 ## Objective
 
-The primary objective of this project is to design and implement an algorithm that can identify diabetic disease in patients using data mining techniques. The algorithm is aimed at improving the early detection and diagnosis of diabetes, which is crucial for effective treatment and management of the disease.
+The primary goal of this project is to design and implement an algorithm that can effectively identify diabetic disease in patients using data mining techniques. The algorithm aims to enhance early detection and diagnosis for improved treatment and disease management.
 
 ## Methodology
 
-Our approach involves utilizing data mining and machine learning techniques to analyze a dataset of patient information, such as medical records, lab results, and lifestyle factors. The steps involved in the methodology include data preprocessing, feature selection, algorithm development, and model evaluation. We aim to provide a reliable and accurate system for diabetic disease identification.
+Our approach involves leveraging data mining and machine learning techniques to analyze a dataset containing patient information, including medical records, lab results, and lifestyle factors. The methodology encompasses data preprocessing, feature selection, algorithm development, and model evaluation, with the objective of providing a reliable and accurate system for diabetic disease identification.
 
 ## Usage
 
@@ -36,50 +36,11 @@ Please refer to the project's documentation and Jupyter notebooks for detailed i
 
 ## Dataset
 
-The dataset used for this research consists of 1,564 rows and the following columns:
-
-| Column Name       | Code  | Description                                      |
-|-------------------|-------|--------------------------------------------------|
-| Region            | 1     | Dhaka                                            |
-|                   | 2     | Barisal                                          |
-|                   | 3     | Chittagong                                       |
-|                   | 4     | Khulna                                           |
-|                   | 5     | Rajshahi                                         |
-|                   | 6     | Rangpur                                          |
-|                   | 7     | Sylhet                                           |
-| Residence         | 1     | Rural                                            |
-|                   | 2     | Urban                                            |
-| Electricity       | 1     | Yes                                              |
-|                   | 2     | No                                               |
-| Gender            | 1     | Male                                             |
-|                   | 2     | Female                                           |
-| Wealth Index      | 1     | Poorer                                           |
-|                   | 2     | Poorest                                          |
-|                   | 3     | Middle                                           |
-|                   | 4     | Richer                                           |
-|                   | 5     | Richest                                          |
-| Education         | 1     | Primary                                          |
-|                   | 2     | Secondary                                        |
-|                   | 3     | Higher                                           |
-|                   | 4     | No education, preschool                         |
-| Working Status    | 1     | Yes                                              |
-|                   | 2     | No                                               |
-| Smoking Status    | 1     | Yes                                              |
-|                   | 2     | No                                               |
-| Take Medicine     | 1     | Yes                                              |
-|                   | 2     | No                                               |
-| BMI Group         | 1     | Normal                                           |
-|                   | 2     | Overweight                                       |
-|                   | 3     | Underweight                                      |
-| Diabetes          | 0     | Control                                          |
-|                   | 1     | Diabetes                                         |
-
-This dataset is a valuable resource for conducting research on diabetic disease identification in the context of various socio-demographic factors in Bangladesh.
-
+The dataset used for this research consists of 1,564 rows and includes socio-demographic factors. For detailed information about the dataset, please refer to the [Dataset folder](dataset).
 
 ## Results
 
-We will be continuously updating this section with the results and performance metrics of the Diabetic Disease Identification Algorithm. Stay tuned for the latest updates and research findings.
+We continuously update this section with the results and performance metrics of the Diabetic Disease Identification Algorithm. Explore the latest updates and research findings in the [Results folder](results), which includes visualizations and key findings.
 
 ## Contributors
 
@@ -92,6 +53,19 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-We welcome collaboration and contributions from the community to improve this algorithm and make a positive impact on diabetic disease identification. Feel free to reach out if you have any questions or ideas for improvement.
+We welcome collaboration and contributions from the community to enhance this algorithm and positively impact diabetic disease identification. Feel free to reach out if you have any questions or ideas for improvement.
 
 For more information, contact [writetoemran@gmail.com](mailto:writetoemran@gmail.com).
+
+---
+
+**Explore More:**
+- [Dataset Folder](dataset)
+- [Code Folder](code)
+- [Analysis Folder](analysis)
+
+**Key Visualizations:**
+- [Diabetes Prediction Dashboard](analysis)
+- [Model Performance Overview](results/model_performance.png)
+- [Correlation Heatmap](results/correlation_heatmap.png)
+
