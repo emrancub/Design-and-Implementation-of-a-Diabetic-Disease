@@ -22,7 +22,6 @@ The dataset is structured with 100,000 entries and 9 columns.
 
 ## First Five Rows
 
-```plaintext
 | gender | age  | hypertension | heart_disease | smoking_history | bmi  | HbA1c_level | blood_glucose_level | diabetes |
 |--------|------|--------------|---------------|------------------|------|-------------|----------------------|----------|
 | Female | 80.0 | 0            | 1             | never            | 25.19| 6.6         | 140                  | 0        |
@@ -32,6 +31,7 @@ The dataset is structured with 100,000 entries and 9 columns.
 | Male   | 76.0 | 1            | 1             | current          | 20.14| 4.8         | 155                  | 0        |
 
 ## Missing Values
+
 | Column               | Missing Values |
 |----------------------|----------------|
 | gender               | 0              |
