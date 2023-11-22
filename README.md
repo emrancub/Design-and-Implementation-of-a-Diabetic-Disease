@@ -27,12 +27,35 @@ Our approach involves leveraging data mining and machine learning techniques to 
 
 To use the Diabetic Disease Identification Algorithm, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Install the required dependencies mentioned in the `requirements.txt` file.
-3. Run the algorithm using the provided scripts or Jupyter notebooks.
-4. Input your dataset for prediction (ensure it follows the same format as the provided dataset).
+1. **Clone the Repository:**
+   - Clone this repository to your local machine using the following command:
+     ```bash
+     git clone https://github.com/emrancub/Design-and-Implementation-of-a-Diabetic-Disease.git
+     ```
 
-Please refer to the project's documentation and Jupyter notebooks for detailed instructions on how to use the algorithm effectively.
+2. **Install Dependencies:**
+   - Navigate to the `code` folder:
+     ```bash
+     cd your-repository/code
+     ```
+
+3. **Run the Algorithm:**
+   - Open the 'Diabeties.ipynb' Jupyter Notebook located in the `code` folder.
+   - Run the notebook using Jupyter Notebook or Jupyter Lab. You can use the following command:
+     ```bash
+     jupyter notebook Diabeties.ipynb
+     ```
+
+4. **Input Your Dataset:**
+   - Download the dataset from the [Dataset folder](dataset).
+   - Ensure your dataset follows the same format as the provided dataset, with relevant columns and data types.
+
+5. **Follow Documentation:**
+   - Refer to the project's documentation within the 'Diabeties.ipynb' notebook for detailed instructions on using the algorithm effectively.
+
+Feel free to explore and modify the algorithm based on your specific requirements. If you encounter any issues or have questions, don't hesitate to refer to the documentation or reach out for assistance.
+
+
 
 ## Dataset
 
