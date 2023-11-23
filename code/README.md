@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code for the data mining and modeling process aimed at predicting diabetes using various classifier models. The analysis is conducted in the 'Diabeties.ipynb' Jupyter Notebook.
+This repository contains the code for the data mining and modeling process aimed at predicting diabetes using various classifier models. The analysis is conducted in the 'diabeties.ipynb' Jupyter Notebook.
 
 ## Data Mining and Modeling
 
@@ -14,7 +14,7 @@ All models have shown excellent performance, achieving accuracy scores ranging f
 
 ## Diabeties.ipynb
 
-For a detailed analysis and comparison of all models, please refer to the 'Diabeties.ipynb' file in this directory. The Jupyter Notebook provides step-by-step explanations, visualizations, and comparisons of the models used in the diabetes prediction task.
+For a detailed analysis and comparison of all models, please refer to the 'diabeties.ipynb' file in this directory. The Jupyter Notebook provides step-by-step explanations, visualizations, and comparisons of the models used in the diabetes prediction task.
 
 Feel free to explore the notebook and delve into the details of each model's performance.
 

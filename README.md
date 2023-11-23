@@ -40,10 +40,10 @@ To use the Diabetic Disease Identification Algorithm, follow these steps:
      ```
 
 3. **Run the Algorithm:**
-   - Open the 'Diabeties.ipynb' Jupyter Notebook located in the `code` folder.
+   - Open the 'diabeties.ipynb' Jupyter Notebook located in the `code` folder.
    - Run the notebook using Jupyter Notebook or Jupyter Lab. You can use the following command:
      ```bash
-     jupyter notebook Diabeties.ipynb
+     jupyter notebook diabeties.ipynb
      ```
 
 4. **Input Your Dataset:**
@@ -51,7 +51,7 @@ To use the Diabetic Disease Identification Algorithm, follow these steps:
    - Ensure your dataset follows the same format as the provided dataset, with relevant columns and data types.
 
 5. **Follow Documentation:**
-   - Refer to the project's documentation within the 'Diabeties.ipynb' notebook for detailed instructions on using the algorithm effectively.
+   - Refer to the project's documentation within the 'diabeties.ipynb' notebook for detailed instructions on using the algorithm effectively.
 
 Feel free to explore and modify the algorithm based on your specific requirements. If you encounter any issues or have questions, don't hesitate to refer to the documentation or reach out for assistance.
 

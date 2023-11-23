@@ -60,7 +60,7 @@ The dataset is structured with 100,000 entries and 9 columns.
 
 ## Conclusion
 
-For more detailed information, please refer to the dataset named "diabetes_prediction_dataset.csv" included in this repository. Additionally, you can find a comprehensive analysis in the Diabeties.ipynb file inside the code folder.
+For more detailed information, please refer to the dataset named "diabetes_dataset.csv" included in this repository. Additionally, you can find a comprehensive analysis in the diabeties.ipynb file inside the code folder.
 
 I collected this data from [Kaggle](https://www.kaggle.com), a platform for data science and machine learning.
 
