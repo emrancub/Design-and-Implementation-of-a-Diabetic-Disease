@@ -125,10 +125,10 @@ All models have shown excellent performance, achieving accuracy scores ranging f
 In addition to the high accuracy and AUC scores, visual representations further illustrate the model performance. The following images provide insights into the model evaluation:
 
 1. **AUC Report:**
-   ![AUC Report](../image/AUC Report.png)
+   ![AUC Report](../image/AUC_Report.png)
    
 2. **Accuracy Values:**
-   ![Accuracy Values](../image/Accuracy Values.png)
+   ![Accuracy Values](../image/Accuracy_Values.png)
 
 ## Diabeties.ipynb
 
