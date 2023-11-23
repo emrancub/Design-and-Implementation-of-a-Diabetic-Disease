@@ -14,7 +14,7 @@ Explore the interactive dashboard designed for the Diabetes Prediction Analysis:
 Here are some static images extracted from the dashboard for quick reference:
 
 1. **Dashboard Overview:**
-   ![Dashboard Overview](images/deshboard.png)
+   ![Dashboard Overview](image/deshboard.png)
 
 2. **Feature Correlation Heatmap:**
    ![Correlation Heatmap](images/correlation_heatmap.png)
