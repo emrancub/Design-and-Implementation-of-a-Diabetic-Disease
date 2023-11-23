@@ -13,7 +13,6 @@ Welcome to the repository for the implementation of a Diabetic Disease Identific
 - [Dataset](#dataset)
 - [Results](#results)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Objective
 
@@ -74,10 +73,6 @@ We continuously update this section with the results and performance metrics of 
 
 - [MD EMRAN HASAN](mailto:writetoemran@gmail.com)
 - Professor Chen Dongming (Supervisor)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
