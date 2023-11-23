@@ -11,6 +11,7 @@ Welcome to the repository for the implementation of a Diabetic Disease Identific
 - [Methodology](#methodology)
 - [Usage](#usage)
 - [Dataset](#dataset)
+- [Dashboard](#dashboard)
 - [Results](#results)
 - [Contributors](#contributors)
 
@@ -60,7 +61,7 @@ Feel free to explore and modify the algorithm based on your specific requirement
 
 The dataset used for this research consists of 100,000 entries and includes socio-demographic factors. For detailed information about the dataset, please refer to the [Dataset folder](dataset).
 
-## Interactive Dashboard
+## Dashboard
 
 An interactive data visualization dashboard was created using Tableau Public. Additionally, Included key visualizations from the dashboard within this repository for quick reference. Explore the interactive dashboard designed for the Diabetes Prediction Analysis:
 [Diabetes Prediction Dashboard](https://public.tableau.com/app/profile/md.emran.hasan/viz/DesignandImplementationofaDiabeticDisease_17006403484550/Dashboard1)
