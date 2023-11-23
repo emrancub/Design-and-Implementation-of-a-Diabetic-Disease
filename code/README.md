@@ -28,7 +28,8 @@ In this section, we present the accuracy and classification report for each mach
 - **Best Parameters:** {'kneighborsclassifier__n_neighbors': 3, 'kneighborsclassifier__weights': 'distance'}
 - **Accuracy:** 0.93
 - **Classification Report:**
- |           | Precision | Recall | F1-Score | Support |
+  
+|           | Precision | Recall | F1-Score | Support |
 |-----------|-----------|--------|----------|---------|
 | Class 0   | 0.96      | 0.91   | 0.93     | 18293   |
 | Class 1   | 0.91      | 0.96   | 0.94     | 18307   |
@@ -49,7 +50,8 @@ In this section, we present the accuracy and classification report for each mach
 
 - **Accuracy:** 0.93
 - **Classification Report:**
-    |           | Precision | Recall | F1-Score | Support |
+  
+|           | Precision | Recall | F1-Score | Support |
 |-----------|-----------|--------|----------|---------|
 | Class 0   | 0.93      | 0.92   | 0.92     | 18293   |
 | Class 1   | 0.92      | 0.93   | 0.93     | 18307   |
@@ -59,7 +61,8 @@ In this section, we present the accuracy and classification report for each mach
 
 - **Accuracy:** 0.97
 - **Classification Report:**
-    |           | Precision | Recall | F1-Score | Support |
+
+|           | Precision | Recall | F1-Score | Support |
 |-----------|-----------|--------|----------|---------|
 | Class 0   | 0.96      | 0.99   | 0.97     | 18293   |
 | Class 1   | 0.99      | 0.96   | 0.97     | 18307   |
@@ -69,7 +72,8 @@ In this section, we present the accuracy and classification report for each mach
 
 - **Accuracy:** 0.98
 - **Classification Report:**
-       |           | Precision | Recall | F1-Score | Support |
+
+|           | Precision | Recall | F1-Score | Support |
 |-----------|-----------|--------|----------|---------|
 | Class 0   | 0.97      | 0.99   | 0.98     | 18293   |
 | Class 1   | 0.99      | 0.97   | 0.98     | 18307   |
@@ -79,15 +83,19 @@ In this section, we present the accuracy and classification report for each mach
 
 - **Accuracy:** 0.97
 - **Classification Report:**
-           precision    recall  f1-score   support
-       0       0.95      0.99      0.97     18293
-       1       0.99      0.95      0.97     18307
+  
+|           | Precision | Recall | F1-Score | Support |
+|-----------|-----------|--------|----------|---------|
+| Class 0   | 0.95      | 0.99   | 0.97     | 18293   |
+| Class 1   | 0.99      | 0.95   | 0.97     | 18307   |
+
 
 ### VIII. LGBM Classifier
 
 - **Accuracy:** 0.97
 - **Classification Report:**
-      |           | Precision | Recall | F1-Score | Support |
+  
+|           | Precision | Recall | F1-Score | Support |
 |-----------|-----------|--------|----------|---------|
 | Class 0   | 0.95      | 0.99   | 0.97     | 18293   |
 | Class 1   | 0.99      | 0.95   | 0.97     | 18307   |
