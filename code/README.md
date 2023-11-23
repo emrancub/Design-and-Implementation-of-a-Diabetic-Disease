@@ -122,6 +122,14 @@ These results provide an overview of the performance of each algorithm in identi
 
 All models have shown excellent performance, achieving accuracy scores ranging from 0.89 to 0.98. The AUC scores indicate strong performance, with values close to 1.0. Choosing the best model depends on specific project requirements. However, based on the analysis, CatBoost stands out with the highest accuracy (0.98) and AUC (1.00). CatBoost is known for its robust handling of categorical features and consistently strong out-of-the-box performance.
 
+In addition to the high accuracy and AUC scores, visual representations further illustrate the model performance. The following images provide insights into the model evaluation:
+
+1. **AUC Report:**
+   ![AUC Report](../image/AUC Report.png)
+   
+2. **Accuracy Values:**
+   ![Accuracy Values](../image/Accuracy Values.png)
+
 ## Diabeties.ipynb
 
 For a detailed analysis and comparison of all models, please refer to the 'diabeties.ipynb' file in this directory. The Jupyter Notebook provides step-by-step explanations, visualizations, and comparisons of the models used in the diabetes prediction task.
