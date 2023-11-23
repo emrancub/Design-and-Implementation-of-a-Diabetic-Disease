@@ -6,7 +6,7 @@ This repository contains the code for the data mining and modeling process aimed
 
 ## Data Mining and Modeling
 
-In the data mining and modeling process, we explore popular classifier models, including Logistic Regression, KNN, Decision Tree, Random Forest, and Multilayer Perceptron Neural Network. Additionally, we apply advanced models such as XGBoost, CATBoost, Gradient Boosting, and LightGBM. The evaluation is based on performance metrics, including accuracy, precision, recall, and F1-score, to predict diabetes classifications. The goal is to identify the best-performing model for our specific requirements.
+In the data mining and modeling process, we apply advanced models such as XGBoost, CATBoost, Gradient Boosting, and LightGBM. The evaluation is based on performance metrics, including accuracy, precision, recall, and F1-score, to predict diabetes classifications. The goal is to identify the best-performing model for our specific requirements.
 
 ## Model Fitting and Prediction
 
