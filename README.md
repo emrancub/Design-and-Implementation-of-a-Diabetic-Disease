@@ -63,7 +63,7 @@ The dataset used for this research consists of 100,000 entries and includes soci
 
 ## Dashboard
 
-An interactive data visualization dashboard was created using Tableau Public. Additionally, Included key visualizations from the dashboard within this repository for quick reference. Explore the interactive dashboard designed for the Diabetes Prediction Analysis:
+An interactive data visualization dashboard was created using Tableau Public, details [Deshboard folder](deshboard). Additionally, Included key visualizations from the dashboard within this repository for quick reference. Explore the interactive dashboard designed for the Diabetes Prediction Analysis:
 [Diabetes Prediction Dashboard](https://public.tableau.com/app/profile/md.emran.hasan/viz/DesignandImplementationofaDiabeticDisease_17006403484550/Dashboard1)
 
 ## Results
