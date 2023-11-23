@@ -61,9 +61,14 @@ Feel free to explore and modify the algorithm based on your specific requirement
 
 The dataset used for this research consists of 100,000 entries and includes socio-demographic factors. For detailed information about the dataset, please refer to the [Dataset folder](dataset).
 
+## Interactive Dashboard
+
+An interactive data visualization dashboard was created using Tableau Public. Additionally, Included key visualizations from the dashboard within this repository for quick reference. Explore the interactive dashboard designed for the Diabetes Prediction Analysis:
+[Diabetes Prediction Dashboard](https://public.tableau.com/app/profile/md.emran.hasan/viz/DesignandImplementationofaDiabeticDisease_17006403484550/Dashboard1)
+
 ## Results
 
-We continuously update this section with the results and performance metrics of the Diabetic Disease Identification Algorithm. Explore the latest updates and research findings in the [Results folder](results), which includes visualizations and key findings.
+We continuously update this section with the results and performance metrics of the Diabetic Disease Identification Algorithm. Explore the latest updates and research findings in the [Analysis folder](analysis), which includes visualizations and key findings.
 
 ## Contributors
 
@@ -84,11 +89,6 @@ For more information, contact [writetoemran@gmail.com](mailto:writetoemran@gmail
 
 **Explore More:**
 - [Dataset Folder](dataset)
-- [Code Folder](code)
+- [Code Folder](analysis)
 - [Deshboard Folder](deshboard)
-
-**Key Visualizations:**
-- [Diabetes Dashboard](image/deshboard.png)
-- [Model Performance Overview](results/model_performance.png)
-- [Correlation Heatmap](results/correlation_heatmap.png)
 
