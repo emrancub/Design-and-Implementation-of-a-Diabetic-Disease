@@ -16,7 +16,8 @@ In this section, we present the accuracy and classification report for each mach
 
 - **Accuracy:** 0.89
 - **Classification Report:**
-    |           | Precision | Recall | F1-Score | Support |
+  
+|           | Precision | Recall | F1-Score | Support |
 |-----------|-----------|--------|----------|---------|
 | Class 0   | 0.89      | 0.88   | 0.89     | 18293   |
 | Class 1   | 0.88      | 0.89   | 0.89     | 18307   |
