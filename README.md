@@ -85,10 +85,10 @@ For more information, contact [writetoemran@gmail.com](mailto:writetoemran@gmail
 **Explore More:**
 - [Dataset Folder](dataset)
 - [Code Folder](code)
-- [Analysis Folder](analysis)
+- [Deshboard Folder](deshboard)
 
 **Key Visualizations:**
-- [Diabetes Prediction Dashboard](analysis)
+- [Diabetes Dashboard](image/deshboard.png)
 - [Model Performance Overview](results/model_performance.png)
 - [Correlation Heatmap](results/correlation_heatmap.png)
 
