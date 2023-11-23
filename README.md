@@ -84,6 +84,6 @@ For more information, contact [writetoemran@gmail.com](mailto:writetoemran@gmail
 
 **Explore More:**
 - [Dataset Folder](dataset)
-- [Code Folder](analysis)
+- [Analysis Folder](analysis)
 - [Deshboard Folder](deshboard)
 
