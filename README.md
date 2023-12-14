@@ -11,7 +11,6 @@ Welcome to the repository for the implementation of a Diabetic Disease Identific
 - [Methodology](#methodology)
 - [Usage](#usage)
 - [Dataset](#dataset)
-- [Dashboard](#dashboard)
 - [Results](#results)
 - [Contributors](#contributors)
 
@@ -56,19 +55,14 @@ To use the Diabetic Disease Identification Algorithm, follow these steps:
 Feel free to explore and modify the algorithm based on your specific requirements. If you encounter any issues or have questions, don't hesitate to refer to the documentation or reach out for assistance.
 
 
-
 ## Dataset
 
-The dataset used for this research consists of 100,000 entries and includes socio-demographic factors. For detailed information about the dataset, please refer to the [Dataset folder](dataset).
+The dataset used for this research consists of 768 entries. For detailed information about the dataset, please refer to the [Dataset folder](dataset).
 
-## Dashboard
-
-An interactive data visualization dashboard was created using Tableau Public, details [Deshboard folder](deshboard). Additionally, Included key visualizations from the dashboard within this repository for quick reference. Explore the interactive dashboard designed for the Diabetes Prediction Analysis:
-[Diabetes Prediction Dashboard](https://public.tableau.com/app/profile/md.emran.hasan/viz/DesignandImplementationofaDiabeticDisease_17006403484550/Dashboard1)
 
 ## Results
 
-We continuously update this section with the results and performance metrics of the Diabetic Disease Identification Algorithm. Explore the latest updates and research findings in the [Analysis folder](analysis), which includes visualizations and key findings.
+We continuously update this section with the results and performance metrics of the Diabetic Disease Identification Algorithm. Explore the latest updates and research findings in the [Analysis and Result folder](analysis_and_result), which includes visualizations and key findings.
 
 ## Contributors
 
@@ -85,6 +79,5 @@ For more information, contact [writetoemran@gmail.com](mailto:writetoemran@gmail
 
 **Explore More:**
 - [Dataset Folder](dataset)
-- [Analysis Folder](analysis)
-- [Deshboard Folder](deshboard)
+- [Analysis and Result Folder](analysis and result)
 
