@@ -57,11 +57,11 @@ These performance metrics demonstrate the effectiveness of the combined classica
 
 
 1. **Values of evaluation parameters evaluated for the classical ensemble model:**
-   ![AUC Report](../image/combined_ML.png)
+   ![AUC Report](../image/evaluation_combined_ml.png)
 2. **Comparison of Testing Accuracy Before and After Hyperparameter Tuning:**
-   ![AUC Report](../image/comparison of testing_accuracy.png)
+   ![AUC Report](../image/comparison_of_testing_accuracy.png)
 3. **Comparative accuracy of proposed CDDLNN with other models:**
-   ![Accuracy Values](../image/compareative_accuracy.png)
+   ![Accuracy Values](../image/comparative_accuracy.png)
 
 ## Diabeties.ipynb
 

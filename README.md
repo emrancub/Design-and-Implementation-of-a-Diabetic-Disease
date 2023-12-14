@@ -79,5 +79,5 @@ For more information, contact [writetoemran@gmail.com](mailto:writetoemran@gmail
 
 **Explore More:**
 - [Dataset Folder](dataset)
-- [Analysis and Result Folder](analysis and result)
+- [Analysis and Result Folder](analysisAndResult)
 
